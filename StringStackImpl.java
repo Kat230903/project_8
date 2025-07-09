@@ -1,6 +1,4 @@
 /*
- * IOANNA KARDARA (p3210065)
- * AIKATERINH PALAIOLOGOY (p3210149)
  * file name: StringStackImpl.java
  */
 
